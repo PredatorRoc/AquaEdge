@@ -1,0 +1,3 @@
+#--- run code----#
+python AquaEdgeFlow.py --source "/home/jetson/Neuflowlite/outputafternoon_1k.mp4" --yolo_weights "/home/jetson/Neuflowlite/train19/weights/best.pt" --neuflow_ckpt "/home/jetson/Neuflowlite/final.pth"
+
